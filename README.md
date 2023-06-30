@@ -22,8 +22,7 @@ heidarabid
 
 
 ## Live Link
-https://newsapp-react.netlify.app/
-
+coming sonn!!
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
