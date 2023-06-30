@@ -1,0 +1,12 @@
+@import url(//db.onlinewebfonts.com/c/57de0e33a644cc8501a1835d273b75dd?family=MaryToddW00-Regular);
+@import url(//db.onlinewebfonts.com/c/e3b581c40918633e25e979b8600f038c?family=MaryToddW00-Light);
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
