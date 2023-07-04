@@ -17,7 +17,7 @@ function Home() {
       <CategoryNews category={"entertainment"} />
       <CategoryNews category={"sports"} />
       <CategoryNews category={"science"} />
-    
+
      
     </main>
   );

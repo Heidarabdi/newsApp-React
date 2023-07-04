@@ -13,7 +13,7 @@ heidarabid
 * swiper
 * axios
 * tailwindcss
-* News API
+* NewsAPI
 
 ## Setup and Installation
 * Clone the repo
@@ -22,7 +22,7 @@ heidarabid
 
 
 ## Live Link
-coming sonn!!
+coming sonn!!!!
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)

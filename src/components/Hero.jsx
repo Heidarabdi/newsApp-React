@@ -20,7 +20,7 @@ function Hero() {
 
   return (
     <main className="w-full flex justify-start items-start md:flex-row flex-col">
-      <div className="w-full md:w-[50%] p-4 md:p-6 ">
+      <div className="w-full md:w-[55%] p-4 md:p-6 ">
         <h1 className="text-4xl font-bold font-[MaryToddW00-Light] w-fit mb-4">Top Headlines</h1>
         <SwiperCard />
 

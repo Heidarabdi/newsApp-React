@@ -1,5 +1,10 @@
 import React from "react";
 import mailbox from "../assets/images/mailbox.png";
+
+const clearInput=()=>{
+  document.querySelector("input").value="";
+}
+
 function Signup() {
   return (
     <div className="flex justify-center items-center w-full my-10 gap-4 p-4 ">
@@ -12,7 +17,7 @@ function Signup() {
           <input
             className="w-[80%] h-10 md:h-14 font-[MaryToddW00-Light] text-xl bg-white border border-blue-600"
             type="text"  placeholder="Enter your email"/>
-            <button className="w-[40%] md:w-[30%] p-2 md:p-0 h-10 md:h-14 bg-blue-600 rounded-lg text-white font-bold">Subscribe</button>
+            <button className="w-[40%] md:w-[30%] p-2 md:p-0 h-10 md:h-14 bg-blue-600 rounded-lg text-white font-bold" onClick={clearInput} >Subscribe</button>
         </div>
       </div>
     </div>
